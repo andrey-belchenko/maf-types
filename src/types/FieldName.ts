@@ -1,0 +1,1 @@
+export type FieldPath =  string | "_id"
